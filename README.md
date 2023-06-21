@@ -1,1 +1,1 @@
-# loja-edk
+# https://loja-edk.vercel.app/
